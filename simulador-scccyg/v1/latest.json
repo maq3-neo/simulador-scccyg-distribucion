@@ -1,14 +1,20 @@
 {
   "esquema": 1,
-  "version": "0.3.1-beta",
+  "version": "0.3.2-beta",
   "canal": "beta",
   "fecha": "2026-10-06",
-  "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.1-beta/Simulador-SCCCyG-Setup-0.3.1-beta.exe",
-  "sha256": "6e919e3055bdcf47caa1fa40806bc5fad2c99831f5518a29c073595ab413d6ab",
-  "tamano_bytes": 56198038,
+  "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.2-beta/Simulador-SCCCyG-Setup-0.3.2-beta.exe",
+  "sha256": "9e10a6ff7339013f6c05edd2d1759804e43179e361e09646c03719fd6d48c270",
+  "tamano_bytes": 56211683,
   "notas": [
-    "Prueba de actualización"
+    "La e.firma debe corresponder a la empresa con licencia vigente.",
+    "Datos de contacto de ventas dentro de la app."
   ],
+  "anterior": {
+    "version": "0.3.1-beta",
+    "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.1-beta/Simulador-SCCCyG-Setup-0.3.1-beta.exe",
+    "sha256": "6e919e3055bdcf47caa1fa40806bc5fad2c99831f5518a29c073595ab413d6ab"
+  },
   "kid": "k-682487a9",
-  "firma": "qWM1mnJo34B7_ScMlrj_DqUb-fuOwRsJclvswLQUJmAhLrzRwPzPK4OrUFrPRm94fvkN_N8HnA5edralDL1cDQ"
+  "firma": "ai5r5uvzhhA3XTPitnPYirqoZX34r9i7bE1jZQxZO04_a-Nq98YBDcBaeUEM_B9XQj7Bh9yuZfqsqyuTiCPrCw"
 }
