@@ -1,20 +1,21 @@
 {
   "esquema": 1,
-  "version": "0.3.2-beta",
+  "version": "0.3.3-beta",
   "canal": "beta",
-  "fecha": "2026-10-06",
-  "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.2-beta/Simulador-SCCCyG-Setup-0.3.2-beta.exe",
-  "sha256": "9e10a6ff7339013f6c05edd2d1759804e43179e361e09646c03719fd6d48c270",
-  "tamano_bytes": 56211683,
+  "fecha": "2026-10-13",
+  "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.3-beta/Simulador-SCCCyG-Setup-0.3.3-beta.exe",
+  "sha256": "be6e610190a74fe5f224f20b9846a3e84d2ca3afaf665bc3af7ed2950119ea51",
+  "tamano_bytes": 56247351,
   "notas": [
-    "La e.firma debe corresponder a la empresa con licencia vigente.",
-    "Datos de contacto de ventas dentro de la app."
+    "El Estado de Cuenta se consulta una sola vez y lo comparten todos los módulos; botón Actualizar en cada módulo.",
+    "Si el SAT no responde, espera 2 minutos y reintenta con cuenta regresiva.",
+    "Corrección de una falla al iniciar sesión en el SAT."
   ],
   "anterior": {
-    "version": "0.3.1-beta",
-    "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.1-beta/Simulador-SCCCyG-Setup-0.3.1-beta.exe",
-    "sha256": "6e919e3055bdcf47caa1fa40806bc5fad2c99831f5518a29c073595ab413d6ab"
+    "version": "0.3.2-beta",
+    "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.2-beta/Simulador-SCCCyG-Setup-0.3.2-beta.exe",
+    "sha256": "9e10a6ff7339013f6c05edd2d1759804e43179e361e09646c03719fd6d48c270"
   },
   "kid": "k-682487a9",
-  "firma": "ai5r5uvzhhA3XTPitnPYirqoZX34r9i7bE1jZQxZO04_a-Nq98YBDcBaeUEM_B9XQj7Bh9yuZfqsqyuTiCPrCw"
+  "firma": "iYUO6ryAB_G4liMNQft4AmTCiFmdjrRVFEqjYCOedEJOBNHQ2s_dk_iZtg7qRuS-BgzL7016diIqjeVann2eCA"
 }
