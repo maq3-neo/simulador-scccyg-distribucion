@@ -1,21 +1,23 @@
 {
   "esquema": 1,
-  "version": "0.3.3-beta",
+  "version": "0.3.4-beta",
   "canal": "beta",
-  "fecha": "2026-10-13",
-  "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.3-beta/Simulador-SCCCyG-Setup-0.3.3-beta.exe",
-  "sha256": "be6e610190a74fe5f224f20b9846a3e84d2ca3afaf665bc3af7ed2950119ea51",
-  "tamano_bytes": 56247351,
+  "fecha": "2026-10-16",
+  "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.4-beta/Simulador-SCCCyG-Setup-0.3.4-beta.exe",
+  "sha256": "b8afde851a71c16eb2337c60b669d0a44608d50e9b89783b0b128846ef010659",
+  "tamano_bytes": 56369718,
   "notas": [
-    "El Estado de Cuenta se consulta una sola vez y lo comparten todos los módulos; botón Actualizar en cada módulo.",
-    "Si el SAT no responde, espera 2 minutos y reintenta con cuenta regresiva.",
-    "Corrección de una falla al iniciar sesión en el SAT."
+    "Informes de Descargo: «Exportar formato original» puede incluir la sección 04 (pedimentos de exportación de cada folio); se descarga solo cuando se necesita, con pausa y reanudación.",
+    "Los archivos exportados se guardan en una carpeta nueva por exportación, y las correcciones incluyen el folio anterior.",
+    "Cargos por Fracción: una fracción que el SAT no entrega ya no detiene la descarga; se reintenta al final.",
+    "Pausar interrumpe la petición en curso, y el inicio de sesión en el SAT se reintenta y explica por qué falló.",
+    "Validación: al señalar el saldo del TXT solo se resaltan las celdas de su resta."
   ],
   "anterior": {
-    "version": "0.3.2-beta",
-    "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.2-beta/Simulador-SCCCyG-Setup-0.3.2-beta.exe",
-    "sha256": "9e10a6ff7339013f6c05edd2d1759804e43179e361e09646c03719fd6d48c270"
+    "version": "0.3.3-beta",
+    "url_instalador": "https://github.com/maq3-neo/simulador-scccyg-distribucion/releases/download/v0.3.3-beta/Simulador-SCCCyG-Setup-0.3.3-beta.exe",
+    "sha256": "be6e610190a74fe5f224f20b9846a3e84d2ca3afaf665bc3af7ed2950119ea51"
   },
   "kid": "k-682487a9",
-  "firma": "iYUO6ryAB_G4liMNQft4AmTCiFmdjrRVFEqjYCOedEJOBNHQ2s_dk_iZtg7qRuS-BgzL7016diIqjeVann2eCA"
+  "firma": "-i5MS0slWTzSGzeSf_5OWYFA1XWJBzH7UJgtZFW3LwOzYTHuBUVGOyjNu7Zxs_AwWeCNW2Wg-FSmDzpnvArjBA"
 }
